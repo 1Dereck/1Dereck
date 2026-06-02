@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Dereck%20Maciel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Dereck%20Felipe%20Maciel%20Pereira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <h1 align="center">Backend Developer</h1>
