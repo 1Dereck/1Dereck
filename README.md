@@ -31,8 +31,7 @@ Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipa
 <br><br>
 
 ### Ferramentas e Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
 </div>
 
 ---
