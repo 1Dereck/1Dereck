@@ -31,13 +31,7 @@ Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipa
 <br><br>
 
 ### Ferramentas e Workflow
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,composer" />
 </div>
 
 ---
