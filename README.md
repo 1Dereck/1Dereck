@@ -1,4 +1,3 @@
-```md
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Dereck+Maciel;Backend+Developer;PHP+%7C+Laravel+%7C+MySQL;Engenharia+de+Software" alt="Typing SVG" />
@@ -61,4 +60,3 @@ Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipa
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-```
