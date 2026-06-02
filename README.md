@@ -7,9 +7,13 @@
 
 ---
 
-# Dereck Maciel
+<h1 align="center">Dereck Maciel</h1>
 
-Desenvolvedor Backend e estudante de Engenharia de Software, com foco em PHP, Laravel e arquitetura backend. Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipal de Fazenda Rio Grande, desenvolvendo aplicações web e dashboards corporativos.
+<p align="center">
+Desenvolvedor Backend e estudante de Engenharia de Software, com foco em PHP, Laravel e arquitetura backend.
+<br>
+Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipal de Fazenda Rio Grande.
+</p>
 
 ---
 
@@ -24,7 +28,7 @@ Desenvolvedor Backend e estudante de Engenharia de Software, com foco em PHP, La
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
+<div align="center">
 
 #### Linguagens e Frameworks
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css" />
@@ -38,7 +42,7 @@ Desenvolvedor Backend e estudante de Engenharia de Software, com foco em PHP, La
 
 ### 📊 Estatísticas
 
-<div align="left">
+<div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=1Dereck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Dereck&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
@@ -48,7 +52,7 @@ Desenvolvedor Backend e estudante de Engenharia de Software, com foco em PHP, La
 
 ### 🤝 Contato
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/dereck-maciel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
