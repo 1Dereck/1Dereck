@@ -5,7 +5,7 @@
 <h1 align="center">Backend Developer</h1>
 
 <p align="center">
-Desenvolvedor Backend e estudante de Engenharia de Software, com foco em PHP, Laravel e arquitetura backend.
+Desenvolvedor Backend e estudante de Engenharia de Software, com foco em PHP, Laravel, Docker e arquitetura de sistemas.
 <br>
 Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipal de Fazenda Rio Grande.
 </p>
@@ -14,10 +14,11 @@ Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipa
 
 ## 💻 Atuação e Foco Técnico
 
-- Desenvolvimento de aplicações internas utilizando Laravel, Blade, Vite e MySQL.
-- Estudos voltados para arquitetura de software, princípios SOLID, Repository Pattern e organização de sistemas escaláveis.
-- Aprimoramento em otimização de queries com Eloquent/PDO e segurança em APIs REST.
-- Desenvolvimento de um framework MVC em PHP puro como projeto de estudo, explorando roteamento, ciclo de requisição, autoloading, injeção de dependências e métodos mágicos.
+- **Migração e Modernização de Sistemas:** Experiência prática na refatoração de sistemas legados em PHP puro para Laravel, mantendo a compatibilidade e integridade de bancos de dados relacionais legados.
+- **Conteinerização de Ambientes:** Uso do **Docker** para padronização e gerenciamento de ambientes de desenvolvimento e produção com PHP, MySQL e Laravel.
+- **Desenvolvimento de Soluções:** Criação e manutenção de aplicações internas utilizando Laravel, Blade, Vite e MySQL.
+- **Arquitetura & Boas Práticas:** Aplicação de princípios SOLID, organização em camadas (Repository Pattern) e otimização de queries via Eloquent/PDO.
+- **Fundamentos do PHP:** Desenvolvimento de um framework MVC autoral em PHP puro, explorando ciclo de requisição, autoloading, injeção de dependências e metaprogramação.
 
 ---
 
@@ -31,7 +32,7 @@ Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipa
 <br><br>
 
 ### Ferramentas e Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,windows" />
 </div>
 
 ---
