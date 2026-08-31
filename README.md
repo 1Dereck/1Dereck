@@ -1,5 +1,18 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Dereck%20Felipe%20Maciel%20Pereira&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+
+  <br>
+
+  <!-- Badges de Conexão Rápida -->
+  <a href="https://dereck-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Acessar_Portfólio_Web-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfólio Web" />
+  </a>
+  <a href="https://www.linkedin.com/in/dereck-maciel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:1dereck.dev@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
 </div>
 
 <h1 align="center">Software Engineer · PHP & Laravel Ecosystem</h1>
@@ -48,6 +61,6 @@ Especialista no ecossistema <strong>PHP / Laravel</strong>, com forte ênfase em
 ## 🎯 Princípios e Padrões de Desenvolvimento
 
 ```text
-├── Clean Code & SOLID             ├── Tipagem Estrita & Static Analysis (Larastan L6)
-├── Automated Testing (Pest PHP)   ├── Segurança & Conformidade LGPD por Design
-└── Component-Driven UI (Livewire) └── Dockerized Environments
+├── Clean Code & SOLID               ├── Tipagem Estrita & Static Analysis (Larastan L6)
+├── Automated Testing (Pest PHP)     ├── Segurança & Conformidade LGPD por Design
+└── Component-Driven UI (Livewire)   └── Dockerized Environments
