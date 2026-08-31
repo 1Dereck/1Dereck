@@ -37,18 +37,6 @@ Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipa
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1Dereck&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1Dereck&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Contato
 
 <div align="center">
