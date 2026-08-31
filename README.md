@@ -1,24 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Dereck%20Felipe%20Maciel%20Pereira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Dereck%20Felipe%20Maciel%20Pereira&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<h1 align="center">Backend Developer</h1>
+<h1 align="center">Software Engineer · PHP & Laravel Ecosystem</h1>
 
 <p align="center">
-Desenvolvedor Backend e estudante de Engenharia de Software, com foco em PHP, Laravel, Docker e arquitetura de sistemas.
-<br>
-Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipal de Fazenda Rio Grande.
+Engenheiro de Software em formação, focado no desenvolvimento de sistemas robustos, escaláveis e seguros.<br>
+Especialista no ecossistema <strong>PHP / Laravel</strong>, com forte ênfase em arquitetura de software, tipagem estrita, testes automatizados e conformidade (LGPD).
+<br><br>
+🏛️ <em>Atualmente atuando na Divisão de Tecnologia da Informação da Prefeitura Municipal de Fazenda Rio Grande, desenvolvendo soluções GovTech de alto impacto para a administração pública.</em>
 </p>
 
 ---
 
-## 💻 Atuação e Foco Técnico
+## 💻 Atuação e Especialidades Técnicas
 
-- **Migração e Modernização de Sistemas:** Experiência prática na refatoração de sistemas legados em PHP puro para Laravel, mantendo a compatibilidade e integridade de bancos de dados relacionais legados.
-- **Conteinerização de Ambientes:** Uso do **Docker** para padronização e gerenciamento de ambientes de desenvolvimento e produção com PHP, MySQL e Laravel.
-- **Desenvolvimento de Soluções:** Criação e manutenção de aplicações internas utilizando Laravel, Blade, Vite e MySQL.
-- **Arquitetura & Boas Práticas:** Aplicação de princípios SOLID, organização em camadas (Repository Pattern) e otimização de queries via Eloquent/PDO.
-- **Fundamentos do PHP:** Desenvolvimento de um framework MVC autoral em PHP puro, explorando ciclo de requisição, autoloading, injeção de dependências e metaprogramação.
+- **Arquitetura & Aplicações Modernas (Laravel + Livewire):** Concepção e desenvolvimento de plataformas completas de ponta a ponta, combinando backend estruturado e interfaces reativas em tempo real (*SPA feel* com Livewire e Alpine.js).
+- **Segurança, Governança & LGPD:** Implementação de controle de acesso granular (RBAC via Policies/Gates), versionamento imutável de documentos, trilhas de auditoria e validação por tokens/hashes criptográficos.
+- **Qualidade de Código & Tipagem Estrita:** Código orientado a padrões modernos do PHP 8+, análise estática rigorosa com **PHPStan/Larastan (Nível 6+)**, formatação automatizada (Pint) e suite de testes com **Pest PHP**.
+- **Migração e Modernização de Legados:** Experiência prática na refatoração e migração de sistemas monolíticos legados em PHP puro para arquiteturas modernas em Laravel, preservando a integridade dos dados relacionais.
+- **Conteinerização & Ambientes:** Padronização de ambientes de desenvolvimento e produção com **Docker**, garantindo consistência entre banco de dados (MySQL), servidores (Nginx/PHP-FPM) e deploy.
+- **Fundamentos e Estruturas Internas:** Desenvolvimento de um framework MVC autoral em PHP nativo, aprofundando o domínio sobre ciclo de vida de requisições, injeção de dependências, autoloading (PSR-4) e design patterns (SOLID, Repository, Service Layer).
 
 ---
 
@@ -26,27 +28,26 @@ Atualmente atuo na Divisão de Tecnologia da Informação da Prefeitura Municipa
 
 <div align="center">
 
-### Linguagens e Frameworks
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css" />
+### Backend & Arquitetura
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,postman" />
 
-<br><br>
+<br>
 
-### Ferramentas e Workflow
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,windows" />
+### Frontend Reativo & UI
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,js,vite" />
+
+<br>
+
+### DevOps, Qualidade & Workflow
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,gitlab,vscode" />
+
 </div>
 
 ---
 
-## 🤝 Contato
+## 🎯 Princípios e Padrões de Desenvolvimento
 
-<div align="center">
-
-<a href="https://linkedin.com/in/dereck-maciel" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:1dereck.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+```text
+├── Clean Code & SOLID             ├── Tipagem Estrita & Static Analysis (Larastan L6)
+├── Automated Testing (Pest PHP)   ├── Segurança & Conformidade LGPD por Design
+└── Component-Driven UI (Livewire) └── Dockerized Environments
