@@ -32,7 +32,7 @@ Especialista no ecossistema <strong>PHP / Laravel</strong>, com forte ênfase em
 - **Segurança, Governança & LGPD:** Implementação de controle de acesso granular (RBAC via Policies/Gates), versionamento imutável de documentos, trilhas de auditoria e validação por tokens/hashes criptográficos.
 - **Qualidade de Código & Tipagem Estrita:** Código orientado a padrões modernos do PHP 8+, análise estática rigorosa com **PHPStan/Larastan (Nível 6+)**, formatação automatizada (Pint) e suite de testes com **Pest PHP**.
 - **Migração e Modernização de Legados:** Experiência prática na refatoração e migração de sistemas monolíticos legados em PHP puro para arquiteturas modernas em Laravel, preservando a integridade dos dados relacionais.
-- **Conteinerização & Ambientes:** Padronização de ambientes de desenvolvimento e produção com **Docker**, garantindo consistência entre banco de dados (MySQL), servidores (Nginx/PHP-FPM) e deploy.
+- **Cloud, Conteinerização & Ambientes:** Padronização de ambientes de desenvolvimento e produção com **Docker** e infraestrutura em nuvem (**AWS**), garantindo consistência entre banco de dados (MySQL), servidores (Nginx/PHP-FPM) e deploy.
 - **Fundamentos e Estruturas Internas:** Desenvolvimento de um framework MVC autoral em PHP nativo, aprofundando o domínio sobre ciclo de vida de requisições, injeção de dependências, autoloading (PSR-4) e design patterns (SOLID, Repository, Service Layer).
 
 ---
@@ -51,8 +51,8 @@ Especialista no ecossistema <strong>PHP / Laravel</strong>, com forte ênfase em
 
 <br>
 
-### DevOps, Qualidade & Workflow
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,gitlab,vscode" />
+### Cloud, DevOps & Workflow
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,gitlab,vscode" />
 
 </div>
 
@@ -61,6 +61,6 @@ Especialista no ecossistema <strong>PHP / Laravel</strong>, com forte ênfase em
 ## 🎯 Princípios e Padrões de Desenvolvimento
 
 ```text
-├── Clean Code & SOLID               ├── Tipagem Estrita & Static Analysis (Larastan L6)
-├── Automated Testing (Pest PHP)     ├── Segurança & Conformidade LGPD por Design
-└── Component-Driven UI (Livewire)   └── Dockerized Environments
+├── Clean Code & SOLID                ├── Tipagem Estrita & Static Analysis (Larastan L6)
+├── Automated Testing (Pest PHP)      ├── Segurança & Conformidade LGPD por Design
+└── Component-Driven UI (Livewire)    └── Cloud & Dockerized Environments
